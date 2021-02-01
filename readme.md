@@ -1,4 +1,6 @@
 # Canvas Hangman
+## GitHub Page
+https://jaumegarciabit.github.io/ahorcado/
 
 ## Introduction
 
